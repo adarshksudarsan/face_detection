@@ -13,7 +13,7 @@ Run ultra_light_webcam.py:
 ![Test output](TestOutput/webcam_test.gif)
 
 #### TODO:
-- [X] test code
+- [ ] test code
 - [X] provide model links
 - [X] add descriptions to methods
 - [X] add links and references
